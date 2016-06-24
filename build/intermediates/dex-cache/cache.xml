@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/myshare-debug/jars/libs/weiboSDKCore_3.1.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6bcf79604e52622554ebcb8344d48aa3013bed39">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/weiboSDKCore_3.1.2_91f61507c82e9414cc23b761ed903f00a721fc30.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/myshare-debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d76c9916ecc8a8ad4de2e3d99fbe212e59794dec">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/intermediates-exploded-aar-myshare-debug_8cfe63be128243d374962520f92208456efac818.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.0.0_6caa0821e6c4cdc0f48b33fcbc6dd7d4d803c0e0.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_a429f8a1b0ff3ce6f0d757b612d4b368b5364844.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/myshare-debug/jars/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d5ffe37cc4f622688b74310444873b2145ad1040">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/SocialSDK_WeiXin_2_b73e080726a291eaad1942434b2cf2bbebc34150.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/myshare-debug/jars/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c16a15a8bd21ecd366981c9a200a64dc4abe10f1">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/SocialSDK_Sina_e3a0431419fdf7b45d2d8394b2d5073266eb0d11.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/myshare-debug/jars/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="464e15fcf09ababa850c536c3a5dbe469cebdf36">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/httpmime-4.1.3_17859f1f5983c037160e8b55b34225f5e8bdfe81.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.0.0_a2e33ae1950b418efc94bed54315b07aaa27e959.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/support-annotations-24.0.0_2a344203bb62c3cb65c031b82e423a1bb9f7da8d.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.0.0_816d9a631882b83532f253d076aee1237506f641.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/internal_impl-24.0.0_bd62568864cfd491e22c4657f4a190e6d998ceac.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/myshare-debug/jars/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5b94b20ea0079ab12a8b27ed2ba2b277373b7f4a">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/umeng_social_sdk_cc68823248d760fa94319fb3aacc738b6a9ffc85.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/exploded-aar/myshare-debug/jars/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="392744fea46ea0e40de66e06e8f7fa2934043788">
+        <dex dex="/Users/apple/Downloads/MyShareDemo/app/build/intermediates/pre-dexed/release/SocialSDK_WeiXin_1_9e8da07650ecff04adeabb19519924ce36d7b3d6.jar" />
+    </item>
+
+</items>
